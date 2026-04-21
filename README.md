@@ -76,7 +76,7 @@
 
 ## 📫 Connect With Me  
 - 📧 Email: kumarroshan62013@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/your-actual-profile  
+- 💼 LinkedIn: https://www.linkedin.com/in/roshankr01u/
 - 🌐 Portfolio: https://your-portfolio.com  
 
 ---
