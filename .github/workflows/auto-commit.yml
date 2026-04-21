@@ -1,9 +1,10 @@
 name: Auto Commit Daily
 
 on:
+  push:
   schedule:
-    - cron: "0 */3 * * *"   # runs every 3 hours
-  workflow_dispatch:        # manual trigger option
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -14,7 +15,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4   # ✅ updated
 
       - name: Set Git config
         run: |
@@ -28,7 +29,7 @@ jobs:
       - name: Commit changes
         run: |
           git add .
-          git commit -m "Update log $(date)" || echo "No changes to commit"
+          git commit -m "Update log $(date)" || echo "No changes"
 
       - name: Push changes
         run: |
