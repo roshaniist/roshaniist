@@ -1,0 +1,29 @@
+name: Auto Commit Daily
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # every 3 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set Git config
+        run: |
+          git config user.name "roshaniist"
+          git config user.email "kumarroshan62013@gmail.com"
+
+      - name: Make changes, commit, and push
+        run: |
+          echo "Commit at $(date)" >> log.txt
+          git add .
+          git commit -m "Update log $(date)" || echo "No changes"
+          git push
