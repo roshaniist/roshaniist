@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan Kumar</h1>
-<h3 align="center">🚀 Java Full-Stack Developer | MERN Stack | Problem Solver</h3>
+<h3 align="center">🚀 Java Full-Stack Developer | Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;DSA+Enthusiast;300%2B+Problems+Solved;Always+Learning+New+Things&center=true&width=500&height=50">
