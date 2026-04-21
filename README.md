@@ -76,10 +76,10 @@
 
 ## 📫 Connect With Me  
 - 📧 Email: kumarroshan62013@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 💼 LinkedIn: https://www.linkedin.com/in/your-actual-profile  
 - 🌐 Portfolio: https://your-portfolio.com  
 
---- test
+---
 
 ## ⚡ Fun Fact  
 Consistency beats talent — I prove it with code + marathons 🏃  
