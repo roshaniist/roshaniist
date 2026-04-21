@@ -1,8 +1,8 @@
-name: Auto Commit Daily
+name: Auto Commit Random Daily
 
 on:
   schedule:
-    - cron: "0 */3 * * *"
+    - cron: "0 */3 * * *"   # every 3 hours → 8 runs/day
   workflow_dispatch:
 
 permissions:
@@ -21,12 +21,17 @@ jobs:
           git config user.name "roshaniist"
           git config user.email "kumarroshan62013@gmail.com"
 
-      - name: Update file
+      - name: Random commits (0–2 per run)
         run: |
-          echo "Commit at $(date)" >> log.txt
+          COUNT=$((RANDOM % 3))   # 0,1,2
+          echo "Will create $COUNT commits"
 
-      - name: Commit & Push
-        run: |
-          git add .
-          git commit -m "Update log $(date)" || echo "No changes"
-          git push
+          for i in $(seq 1 $COUNT)
+          do
+            echo "Commit $i at $(date)" >> log.txt
+            git add .
+            git commit -m "Random update $i at $(date)" || echo "No changes"
+          done
+
+      - name: Push changes
+        run: git push
