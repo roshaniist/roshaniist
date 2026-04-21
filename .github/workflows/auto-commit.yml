@@ -2,8 +2,8 @@ name: Auto Commit Daily
 
 on:
   schedule:
-    - cron: "0 */3 * * *"   # every 3 hours
-  workflow_dispatch:
+    - cron: "0 */3 * * *"   # runs every 3 hours
+  workflow_dispatch:        # manual trigger option
 
 permissions:
   contents: write
@@ -21,9 +21,15 @@ jobs:
           git config user.name "roshaniist"
           git config user.email "kumarroshan62013@gmail.com"
 
-      - name: Make changes, commit, and push
+      - name: Create/Update file
         run: |
           echo "Commit at $(date)" >> log.txt
+
+      - name: Commit changes
+        run: |
           git add .
-          git commit -m "Update log $(date)" || echo "No changes"
+          git commit -m "Update log $(date)" || echo "No changes to commit"
+
+      - name: Push changes
+        run: |
           git push

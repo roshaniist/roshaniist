@@ -75,7 +75,7 @@
 ---
 
 ## 📫 Connect With Me  
-- 📧 Email: your-email@example.com  
+- 📧 Email: kumarroshan62013@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/your-profile  
 - 🌐 Portfolio: https://your-portfolio.com  
 
