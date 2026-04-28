@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Roshan Kumar</h1>
-<h3 align="center">🚀 Java Full-Stack Developer | Problem Solver</h3>
+<h3 align="center">🚀 Java Full-Stack Developer | Spring Boot Expert | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;DSA+Enthusiast;300%2B+Problems+Solved;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://komarev.com/ghpvc/?username=roshaniist&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/roshaniist/roshaniist?style=flat-square&color=yellow" alt="GitHub Stars" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;DSA+Enthusiast;350%2B+Problems+Solved;System+Design+Lover&center=true&width=500&height=50">
 </p>
 
 ---
