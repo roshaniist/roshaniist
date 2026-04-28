@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;DSA+Enthusiast;350%2B+Problems+Solved;System+Design+Lover&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;DSA+Enthusiast;350%2B+Problems+Solved;System+Design+Lover&center=true&width=500&height=50&color=ff00ff">
 </p>
 
 ---
