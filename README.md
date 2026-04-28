@@ -44,19 +44,15 @@
 
 ---
 
-## 💼 Projects  
+## 💼 Featured Repositories
 
-### 🏫 School Management System  
-- Java + Spring + JDBC + MySQL  
-- Features: Student & Teacher Management, CRUD Operations  
-
-### 📝 MyBlogApp  
-- Spring Boot + Thymeleaf + Spring Security  
-- Features: Role-based Auth, Search, Categories  
-
-### 🐶 Dog Breed Information System  
-- Java + API + JDBC + MySQL  
-- Integrated Dog CEO API with DAO Architecture  
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Expense-Tracker-Application](https://github.com/roshaniist/Expense-Tracker-Application)** | Manage daily expenses with category filtering and CRUD operations. | Java, Spring Boot, MySQL, Hibernate |
+| **[School Management System](https://github.com/roshaniist/School-Management-System-By-Using-Spring-Boot-)** | Comprehensive system for Student & Teacher management. | Java, Spring Boot, JDBC, MySQL |
+| **[DogApiusingSpringboot](https://github.com/roshaniist/DogApiusingSpringboot)** | Integrated Dog CEO API with a robust DAO architecture. | Java, Spring Boot, REST API |
+| **[BlogAppSpringboot](https://github.com/roshaniist/BlogAppSpringboot)** | Full-featured blog with Role-based Auth and search. | Spring Boot, Thymeleaf, Security |
+| **[portfolio](https://github.com/roshaniist/portfolio)** | Modern, responsive portfolio showcasing my developer journey. | React, TypeScript, Tailwind CSS |
 
 ---
 
