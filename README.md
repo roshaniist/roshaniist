@@ -9,7 +9,7 @@
 
 ## 💫 About Me  
 - 🎓 B.Tech in Computer Science (CGPA: 8.39)  
-- 💻 Skilled in **Java, Spring Boot, React, Node.js**  
+- 💻 Skilled in **Java, Spring Boot, React**  
 - 🛠️ Experience in **Full Stack Web Development**  
 - 📚 Solved **300+ DSA problems**  
 - 🏃 Marathon Runner (Discipline + Consistency 💪)  
@@ -32,13 +32,10 @@
 ### ⚙️ Backend  
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ Database  
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
