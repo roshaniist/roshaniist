@@ -75,9 +75,11 @@
 ---
 
 ## 📫 Connect With Me  
-- 📧 Email: kumarroshan62013@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/roshankr01u/
-- 🌐 Portfolio: https://your-portfolio.com  
+- 📧 Email: [kumarroshan62013@gmail.com](mailto:kumarroshan62013@gmail.com)
+- 💼 LinkedIn: [roshankr01u](https://www.linkedin.com/in/roshankr01u/)
+- 🌐 Portfolio: [imroshan.vercel.app](https://imroshan.vercel.app/)
+- 🏆 LeetCode: [roshan_62013](https://leetcode.com/u/roshan_62013/)
+- 🎓 GeeksforGeeks: [kumarroshan62013](https://www.geeksforgeeks.org/profile/kumarroshan62013?tab=activity)
 
 ---
 
