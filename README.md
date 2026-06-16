@@ -53,6 +53,8 @@
 | **[School Management System](https://github.com/roshaniist/School-Management-System-By-Using-Spring-Boot-)** | Comprehensive system for Student & Teacher management. | Java, Spring Boot, JDBC, MySQL |
 | **[DogApiusingSpringboot](https://github.com/roshaniist/DogApiusingSpringboot)** | Integrated Dog CEO API with a robust DAO architecture. | Java, Spring Boot, REST API |
 | **[BlogAppSpringboot](https://github.com/roshaniist/BlogAppSpringboot)** | Full-featured blog with Role-based Auth and search. | Spring Boot, Thymeleaf, Security |
+| **[Train-Ticket-Reservation-System](https://github.com/roshaniist/Train-Ticket-Reservation-System)** | Train ticket booking system with passenger registration, seat availability tracking, reservation management, and train scheduling features. | Java, OOP |
+| **[Hotel-Management-Using-OOP-Project](https://github.com/roshaniist/Hotel-Management-Using-OOP-Project)** | Console-based hotel management system supporting room booking, customer management, check-in/check-out, and reservation handling. | Java, OOP |
 | **[portfolio](https://github.com/roshaniist/portfolio)** | Modern, responsive portfolio showcasing my developer journey. | React, TypeScript, Tailwind CSS |
 ---
 
