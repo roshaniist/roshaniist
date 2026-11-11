@@ -1,6 +1,7 @@
+# 👋 Hi, I'm Roshan Kumar
 
 <h1 align="center">Hi 👋, I'm Roshan Kumar</h1>
-<h3 align="center">🚀 Java Full-Stack Developer | Spring Boot | Angular | PostgreSQL | Docker</h3>
+<h3 align="center">🚀 Java Full-Stack Developer | Spring Boot | Angular | Microservices | PostgreSQL | Docker</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=roshaniist&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -8,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Angular+Developer;REST+API+Developer;DSA+Enthusiast;350%2B+Problems+Solved;Docker+%7C+PostgreSQL&center=true&width=550&height=50&color=ff00ff" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Angular+Developer;REST+API+Developer;Microservices+Architecture;DSA+Enthusiast;350%2B+Problems+Solved;Docker+%7C+PostgreSQL&center=true&width=550&height=50&color=ff00ff" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,6 +20,7 @@
 - 💻 Java Full-Stack Developer.
 - ⚙️ Experienced in Java, Spring Boot, Angular and REST APIs.
 - 🔐 Working with Spring Security and JWT Authentication.
+- 🏗️ Learning Microservices Architecture and Distributed Systems.
 - 🐳 Learning and working with Docker and PostgreSQL.
 - 📚 Solved 300+ DSA problems.
 - 🏃 Marathon Runner (Discipline + Consistency 💪).
@@ -50,6 +52,7 @@
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-blueviolet?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
